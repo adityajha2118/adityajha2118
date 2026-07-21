@@ -415,9 +415,17 @@ Food Tracking & Smart Assistant →
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Let's%20Connect&fontSize=32&fontColor=00F7FF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=GitHub%20Analytics&fontSize=32&fontColor=00F7FF&animation=fadeIn"/>
 
-### 💬 I'm always open to collaborating on exciting AI projects, open-source contributions, and innovative ideas.
+</div>
+
+<div align="center">
+
+### 📊 GitHub Statistics
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityajha2118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajha2118&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -425,21 +433,9 @@ Food Tracking & Smart Assistant →
 
 <div align="center">
 
-<a href="mailto:adityak.jha18@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### 🌎 Most Used Languages
 
-<a href="https://www.linkedin.com/in/aditya-kumar-jha/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/adityajha2118">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajha2118&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 
 </div>
 
@@ -447,19 +443,9 @@ Food Tracking & Smart Assistant →
 
 <div align="center">
 
-## 🌐 Profile Visitors
+### 📈 Contribution Activity
 
-<img src="https://komarev.com/ghpvc/?username=adityajha2118&style=for-the-badge&color=blue"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 Thanks for visiting my profile!
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!;Let's+build+the+future+with+AI.;Happy+Coding!+🚀"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajha2118&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -467,6 +453,50 @@ Food Tracking & Smart Assistant →
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=150&section=footer"/>
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityajha2118&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityajha2118&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityajha2118&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityajha2118&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityajha2118&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityajha2118&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📌 Contribution Calendar
+
+<img src="https://ghchart.rshah.org/00F7FF/adityajha2118" alt="GitHub Contribution Chart"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 Developer Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
