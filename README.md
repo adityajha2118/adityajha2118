@@ -431,31 +431,12 @@ Food Tracking & Smart Assistant →
 
 ---
 
-<div align="center">
-
-### 🌎 Most Used Languages
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajha2118&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-
-</div>
-
----
 
 <div align="center">
 
 ### 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajha2118&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=adityajha2118&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -488,15 +469,5 @@ Food Tracking & Smart Assistant →
 ### 📌 Contribution Calendar
 
 <img src="https://ghchart.rshah.org/00F7FF/adityajha2118" alt="GitHub Contribution Chart"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔥 Developer Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
