@@ -410,3 +410,49 @@ Food Tracking & Smart Assistant →
 | 📈 Machine Learning Pipelines | End-to-end ML workflows with feature engineering, model optimization, and deployment. |
 | 🧠 Computer Vision Applications | Deep learning models for image understanding and real-world automation. |
 | ⚡ AI Automation Tools | Building AI-powered productivity tools using modern LLM frameworks. |
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityajha2118&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajha2118&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="700" src="https://streak-stats.demolab.com?user=adityajha2118&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityajha2118&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityajha2118&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/adityajha2118/adityajha2118/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
