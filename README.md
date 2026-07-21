@@ -653,7 +653,7 @@ End-to-end AI-powered photo management ecosystem consisting of a mobile applicat
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=adityajha2118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajha2118&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://https://streak-stats.demolab.com?user=adityajha2118&theme=tokyonight&hide_border=true/?user=adityajha2118&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -715,7 +715,7 @@ End-to-end AI-powered photo management ecosystem consisting of a mobile applicat
 
 ### 📌 Contribution Calendar
 
-<img src="https://ghchart.rshah.org/00F7FF/adityajha2118" alt="GitHub Contribution Chart"/>
+<img src="https:///00F7FF/adityajha2118" alt="GitHub Contribution Chart"/>
 
 </div>
 
@@ -902,7 +902,7 @@ Working on modern AI applications with a focus on intelligent systems, scalable 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/aditya-kumar-jha/">
+<a href="https://www.linkedin.com/in/aditya-kumar-jha-430163321/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -910,8 +910,8 @@ Working on modern AI applications with a focus on intelligent systems, scalable 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://www.kaggle.com/adityajhaaaaaa">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 </div>
