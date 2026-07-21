@@ -1,54 +1,34 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Aditya Kumar Jha
+# Hi 👋 I'm Aditya Kumar Jha
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&lines=AI+Intern+%40+University+of+Messina+%F0%9F%87%AE%F0%9F%87%B9;Data+Science+%26+Artificial+Intelligence;Building+Agentic+AI+Systems;LLMs+%7C+Computer+Vision+%7C+MLOps;FastAPI+%7C+LangGraph+%7C+TensorFlow;Always+Building.+Always+Learning." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+Intern+%40+University+of+Messina+%F0%9F%87%AE%F0%9F%87%B9;Data+Science+%26+Artificial+Intelligence;Building+Intelligent+AI+Systems;Agentic+AI+%7C+LLMs+%7C+Computer+Vision;FastAPI+%7C+LangGraph+%7C+PyTorch" />
 
 <br>
 
-<img src="https://img.shields.io/badge/AI%20Intern-University%20of%20Messina-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/B.Tech-Data%20Science%20%26%20AI-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic-AI-ff6b6b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Intern-University%20of%20Messina-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/B.Tech-Data%20Science%20%26%20AI-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=adityajha2118&style=for-the-badge&color=0e75b6"/>
+<a href="mailto:adityak.jha18@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/github/followers/adityajha2118?style=for-the-badge&logo=github"/>
+<a href="https://www.linkedin.com/in/aditya-kumar-jha-430163321/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"/>
+</a>
 
-<img src="https://img.shields.io/github/stars/adityajha2118?style=for-the-badge&logo=github"/>
+<a href="https://github.com/adityajha2118">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+</a>
 
-</div>
-
-<div align="center">
-
-### 🚀 Building Intelligent AI Systems for Real-World Impact
-
-I'm an undergraduate in **Data Science & Artificial Intelligence** passionate about building intelligent systems that combine **Machine Learning**, **Large Language Models**, **Computer Vision**, and **Agentic AI** to solve real-world problems.
-
-Currently working as an **AI Intern at the University of Messina, Italy 🇮🇹**, where I'm developing practical AI solutions while exploring modern AI architectures and intelligent automation.
-
-</div>
-
-## ⚡ Quick Highlights
-
-- 🤖 AI Intern @ University of Messina, Italy 🇮🇹
-- 🎓 B.Tech in Data Science & Artificial Intelligence
-- 🧠 Building Enterprise AI Applications
-- 🚀 Passionate about Agentic AI & LLM Systems
-- 📈 End-to-End AI Engineering
-- 🌍 Open to AI Engineering & Machine Learning Opportunities
-
-- <div align="center">
-
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="650"/>
-
-</div>
-
-<div align="center">
-
-> *"Turning intelligent ideas into scalable AI systems that create real-world impact."*
+<a href="https://www.kaggle.com/adityajhaaaaaa">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle"/>
+</a>
 
 </div>
 
@@ -56,94 +36,102 @@ Currently working as an **AI Intern at the University of Messina, Italy 🇮🇹
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=About%20Me&fontSize=32&fontColor=00F7FF&animation=fadeIn"/>
+### Building AI systems that bridge Machine Learning, LLMs, Computer Vision and scalable software engineering.
 
 </div>
+## 👨‍💻 About Me
 
-```yaml
-Name            : Aditya Kumar Jha
+I'm an undergraduate student pursuing a **B.Tech in Data Science & Artificial Intelligence** at **IIIT Naya Raipur**, with a passion for designing intelligent software that combines AI research with practical engineering.
 
-Current Role    : AI Intern
-Organization    : University of Messina, Italy 🇮🇹
+Currently, I'm working as an **AI Intern at the University of Messina, Italy 🇮🇹**, where I contribute to building modern AI applications and explore scalable approaches to intelligent systems.
 
-Education       : B.Tech
-Major           : Data Science & Artificial Intelligence
+My interests lie in developing production-ready AI solutions—from **Agentic AI** and **Large Language Models** to **Computer Vision**, **Enterprise AI**, and **AI-powered Automation**. I enjoy transforming complex ideas into software that is reliable, scalable, and impactful.
 
-Focus Areas
--------------
-• Agentic AI
-• Large Language Models (LLMs)
-• Multi-Agent Systems
-• Computer Vision
-• Explainable AI (XAI)
-• Retrieval-Augmented Generation (RAG)
-• AI Security
-• Intelligent Automation
+<br>
 
-Currently Building
-------------------
-• Enterprise AI Applications
-• AI-powered Customer Intelligence Systems
-• Autonomous AI Agents
-• Full-Stack AI Solutions
-• Production-ready ML Pipelines
+## 🌱 Currently Exploring
 
-Languages
----------
-• Python
-• C++
-• C
-• JavaScript
-• SQL
+- 🤖 Agentic AI & Autonomous Workflows
+- 🧠 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚙️ Multi-Agent Systems
+- 👁️ Computer Vision
+- 🚀 Production AI Engineering
+- ☁️ MLOps & Cloud Deployment
 
-Always Exploring
-----------------
-• AI Engineering
-• Scalable Backend Systems
-• MLOps
-• Cloud Technologies
-• Open Source
-```
+<br>
 
----
+## 💡 What I'm Looking For
 
-## 🧠 What I Do
+I'm always excited to collaborate on projects involving:
 
-I enjoy building intelligent systems that combine **Machine Learning**, **Large Language Models**, **Computer Vision**, and **Backend Engineering** to solve real-world problems.
+- Artificial Intelligence
+- Machine Learning Engineering
+- Full-Stack AI Applications
+- Intelligent Automation
+- Open Source
+- AI for Real-World Impact
 
-My work focuses on developing **production-ready AI applications** that go beyond predictive models by integrating intelligent automation, modern software engineering practices, and scalable deployment.
-
-From enterprise analytics platforms and AI-powered automation tools to multimodal assistants and full-stack AI applications, I enjoy transforming ideas into impactful software.
-
----
-
-## 🚀 Current Focus
+## 💼 Experience
 
 <table>
 <tr>
-<td width="50%">
+<td width="90">
 
-### 🤖 AI Engineering
-
-- Agentic AI
-- LLM Applications
-- LangGraph
-- LangChain
-- CrewAI
-- RAG Pipelines
+<img src="https://cdn.simpleicons.org/openai/ffffff" width="45"/>
 
 </td>
 
-<td width="50%">
+<td>
 
-### ⚙️ Software Engineering
+### AI Intern
+**University of Messina · Italy 🇮🇹**
 
-- FastAPI
-- REST APIs
-- PostgreSQL
-- Docker
-- Deployment
-- System Design
+**2026 – Present**
+
+Working on practical AI applications involving intelligent systems, modern AI frameworks, and scalable AI solutions in an international academic environment.
+
+**Focus Areas**
+- Agentic AI
+- Large Language Models
+- Computer Vision
+- AI-powered Automation
+- AI System Development
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🎓 Education
+
+<table>
+<tr>
+<td width="90">
+
+🎓
+
+</td>
+
+<td>
+
+### Bachelor of Technology
+
+**Data Science & Artificial Intelligence**
+
+**Dr. Shyama Prasad Mukherjee International Institute of Information Technology, Naya Raipur**
+
+Relevant Coursework
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Mining
+- Artificial Intelligence
+- Database Systems
+- Operating Systems
+- Computer Networks
 
 </td>
 </tr>
@@ -153,794 +141,272 @@ From enterprise analytics platforms and AI-powered automation tools to multimoda
 
 ## 🌍 Areas of Interest
 
-<div align="center">
+<p>
 
-| 🤖 Artificial Intelligence | ⚡ Software Engineering | 📊 Data Science |
-|:-------------------------:|:----------------------:|:--------------:|
-| Agentic AI | Backend Development | Machine Learning |
-| LLM Applications | FastAPI | Predictive Analytics |
-| Multi-Agent Systems | REST APIs | Feature Engineering |
-| Computer Vision | Cloud Deployment | Explainable AI |
-| Intelligent Automation | Docker | MLOps |
+💡 Agentic AI • 🤖 LLM Applications • 👁️ Computer Vision • ⚡ Intelligent Automation • 📊 Enterprise AI • 🔍 Retrieval-Augmented Generation • ☁️ MLOps
 
-</div>
+</p>
+## 🛠️ Tech Stack
 
----
+### 👨‍💻 Programming Languages
 
-## 🎯 What Drives Me
-
-I believe that AI should not only make accurate predictions but also build **intelligent, explainable, and scalable systems** that solve meaningful real-world problems.
-
-My goal is to engineer AI solutions that bridge research and production through robust software architecture, practical deployment, and user-centric design.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts" />
+</p>
 
 ---
 
-<div align="center">
+### 🤖 Artificial Intelligence & Machine Learning
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Experience%20%26%20Education&fontSize=32&fontColor=00F7FF&animation=fadeIn"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
-</div>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
-# 💼 Professional Experience
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square"/>
 
-<table>
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square"/>
 
-<tr>
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=cat&logoColor=black"/>
 
-<td width="15%" align="center">
-
-🇮🇹
-
-</td>
-
-<td>
-
-### **AI Intern**
-**University of Messina • Italy**
-
-📅 **2026**
-
-Working on practical Artificial Intelligence solutions with a focus on intelligent systems, modern AI frameworks, and scalable AI application development.
-
-#### Highlights
-
-- 🤖 Developing AI-powered applications using modern AI frameworks
-- 🧠 Building intelligent automation workflows
-- ⚙️ Designing scalable AI architectures
-- 🌍 Collaborating in an international academic environment
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎓 Education
-
-<table>
-
-<tr>
-
-<td width="15%" align="center">
-
-🎓
-
-</td>
-
-<td>
-
-### **Bachelor of Technology**
-
-**Data Science & Artificial Intelligence**
-
-**Dr. Shyama Prasad Mukherjee International Institute of Information Technology, Naya Raipur**
-
-Building a strong foundation in
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Data Mining
-- Artificial Intelligence
-- Data Structures & Algorithms
-- Database Systems
-- Operating Systems
-- Computer Networks
-- Software Engineering
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🌍 Professional Snapshot
-
-<div align="center">
-
-| 💼 Current Role | 🎓 Degree | 🌎 Location |
-|:---------------:|:---------:|:-----------:|
-| AI Intern | B.Tech (DSAI) | Italy 🇮🇹 |
-
-</div>
-
----
-
-# 🚀 Areas of Expertise
-
-<div align="center">
-
-| Artificial Intelligence | Backend Engineering | Data Science |
-|:----------------------:|:------------------:|:------------:|
-| LLM Applications | FastAPI | Machine Learning |
-| Agentic AI | REST APIs | Data Analytics |
-| Computer Vision | PostgreSQL | Feature Engineering |
-| Multi-Agent Systems | Docker | Model Development |
-| RAG Pipelines | Cloud Deployment | Explainable AI |
-
-</div>
-
----
-
-# 🌟 Professional Philosophy
-
-> *"I enjoy building AI systems that bridge intelligent algorithms with scalable software engineering, transforming ideas into practical real-world applications."*
-
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Tech%20Stack&fontSize=32&fontColor=00F7FF&animation=fadeIn"/>
-
-</div>
-
-<div align="center">
-
-## 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,bash&theme=dark"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🤖 Artificial Intelligence & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LangChain-LLM_Framework-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangGraph-Agentic_AI-0096FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CrewAI-Multi_Agent-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LlamaIndex-RAG-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/XGBoost-Gradient_Boosting-EC407A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LightGBM-ML-8BC34A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CatBoost-ML-FFD600?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SHAP-Explainable_AI-purple?style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/REST_API-Development-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQLAlchemy-ORM-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pydantic-Validation-blue?style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ☁️ Cloud • DevOps • Deployment
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,gcp,linux&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 Data Science
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Plotly-Interactive_Dashboards-3F4F75?style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎨 Frontend & UI
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Developer Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,git,github,figma&theme=dark"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Core Expertise
-
-| 🤖 AI | ⚙️ Engineering | 📊 Data |
-|:------:|:--------------:|:-------:|
-| Agentic AI | FastAPI | Machine Learning |
-| LLM Applications | REST APIs | Data Analytics |
-| Multi-Agent Systems | Docker | Feature Engineering |
-| Computer Vision | PostgreSQL | Predictive Modeling |
-| RAG Pipelines | Cloud Deployment | Explainable AI |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Featured%20Projects&fontSize=32&fontColor=00F7FF&animation=fadeIn"/>
-
-</div>
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">📊 FinSight AI</h3>
-
-<p align="center">
-
-Enterprise AI platform designed to transform customer data into actionable business intelligence through predictive analytics, complaint intelligence, customer segmentation, campaign analysis, and AI-powered executive insights.
+<img src="https://img.shields.io/badge/SHAP-FF0055?style=flat-square"/>
 
 </p>
 
-<p align="center">
+---
 
-<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi"/>
+### 🧠 LLMs & Agentic AI
 
-<img src="https://img.shields.io/badge/LangGraph-Agentic_AI-0066ff?style=for-the-badge"/>
+<p align="left">
 
-<img src="https://img.shields.io/badge/XGBoost-ML-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/LangGraph-0A192F?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/LlamaIndex-7B42BC?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/CrewAI-5C2D91?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/RAG-4285F4?style=flat-square"/>
 
 </p>
 
-<p align="center">
+---
+
+### ⚙️ Backend Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,django" />
+
+</p>
+
+---
+
+### 🌐 Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+
+</p>
+
+---
+
+### ☁️ Cloud • DevOps • Deployment
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,gcp" />
+
+</p>
+
+---
+
+### 📊 Data Analytics & Visualization
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+
+</p>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 💳 FinSight AI
+
+An end-to-end AI-powered customer complaint intelligence platform inspired by enterprise financial systems. The platform combines predictive analytics, sentiment analysis, explainable AI, and interactive dashboards to improve customer experience and business decision-making.
+
+**Highlights**
+
+- 🤖 Complaint Intelligence using LLMs
+- 📊 Interactive Power BI Dashboards
+- 📈 Churn & Escalation Prediction
+- 🧠 Explainable AI (SHAP)
+- ☁️ BigQuery Integration
+
+**Tech Stack**
+
+`Python` `FastAPI` `Scikit-learn` `Power BI` `BigQuery` `SHAP`
+
+**🔗 Repository**
 
 <a href="https://github.com/adityajha2118/AMEX_FinsightAI">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-
+AMEX_FinsightAI →
 </a>
-
-</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-<h3 align="center">🤖 Vision Autonomous Desktop Agent</h3>
+### 🖥️ Vision Autonomous Desktop Agent
 
-<p align="center">
+A multimodal AI desktop assistant capable of understanding natural language instructions and autonomously performing desktop tasks using Computer Vision and LLM reasoning.
 
-AI-powered desktop automation platform that combines Computer Vision, OCR, Speech Recognition, and Natural Language Processing to automate real-world desktop workflows.
+**Highlights**
 
-</p>
+- 👁️ Screen Understanding
+- 🧠 Vision + LLM Agent
+- 🖱️ Desktop Automation
+- ⚡ Autonomous Workflow Execution
 
-<p align="center">
+**Tech Stack**
 
-<img src="https://img.shields.io/badge/OpenCV-Computer_Vision-blue?style=for-the-badge"/>
+`Python` `OpenCV` `FastAPI` `PyAutoGUI` `LLMs`
 
-<img src="https://img.shields.io/badge/FastAPI-Backend-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
+**🔗 Repository**
 
 <a href="https://github.com/adityajha2118/Vision_Autonomous_Desktop_Agent">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-
+Vision_Autonomous_Desktop_Agent →
 </a>
-
-</p>
 
 </td>
 
 </tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">📄 Agentic PDF Chatbot</h3>
-
-<p align="center">
-
-Retrieval-Augmented Generation (RAG) assistant capable of intelligent document understanding, semantic retrieval, contextual conversations, and knowledge extraction using modern LLM frameworks.
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LangChain-RAG-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FAISS-Vector_DB-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Google_Gemini-LLM-blueviolet?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/adityajha2118/PDF-Chatbot">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🍽️ Food Tracking & Smart Assistant</h3>
-
-<p align="center">
-
-AI-assisted nutrition platform for intelligent meal tracking, health analytics, food recognition, and personalized dietary recommendations.
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/TensorFlow-Deep_Learning-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FastAPI-Backend-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/adityajha2118/Food_Tracking_and_Smart_Assistace">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
-
-<h3 align="center">📷 BioTrack AI Ecosystem</h3>
-
-<p align="center">
-
-End-to-end AI-powered photo management ecosystem consisting of a mobile application, backend services, and web portal for intelligent image organization, retrieval, and management.
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-Native-61DAFB?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/Computer_Vision-AI-success?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/adityajha2118">
-
-<img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
 </table>
 
-</div>
-
 ---
-
-## 🚀 More Projects
-
-<div align="center">
-
-| Project | Domain | Highlights |
-|:--------|:------:|:----------|
-| 📊 FinSight AI | Enterprise AI | Customer Intelligence, LLMs, Analytics |
-| 🤖 Vision Agent | Automation | Computer Vision, OCR, NLP |
-| 📄 PDF Chatbot | RAG | Semantic Search, LLMs |
-| 🍽️ Food Assistant | Healthcare AI | Nutrition Tracking, AI |
-| 📷 BioTrack | Computer Vision | Full-Stack AI Ecosystem |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=GitHub%20Analytics&fontSize=32&fontColor=00F7FF&animation=fadeIn"/>
-
-</div>
-
-<div align="center">
-
-### 📊 GitHub Statistics
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityajha2118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://https://streak-stats.demolab.com?user=adityajha2118&theme=tokyonight&hide_border=true/?user=adityajha2118&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌎 Most Used Languages
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajha2118&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajha2118&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=adityajha2118&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityajha2118&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityajha2118&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityajha2118&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityajha2118&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityajha2118&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📌 Contribution Calendar
-
-<img src="https:///00F7FF/adityajha2118" alt="GitHub Contribution Chart"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔥 Developer Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Professional%20Highlights&fontSize=32&fontColor=00F7FF&animation=fadeIn"/>
-
-</div>
-
-# 🌍 International Experience
 
 <table>
-
 <tr>
 
-<td width="18%" align="center">
+<td width="50%">
 
-🇮🇹
+### 🩺 BioTrack
+
+A comprehensive healthcare ecosystem for intelligent health monitoring, featuring a backend API, patient portal, and mobile application.
+
+**Highlights**
+
+- 📱 Mobile Health Tracking
+- 🏥 Patient Management
+- 📊 Health Analytics
+- 🔒 Secure Backend APIs
+
+**Tech Stack**
+
+`FastAPI` `React` `PostgreSQL` `Docker`
+
+**🔗 Repository**
+
+<a href="https://github.com/adityajha2118">
+BioTrack →
+</a>
 
 </td>
 
-<td>
+<td width="50%">
 
-## AI Intern
+### 📄 AI PDF Chatbot
 
-### University of Messina • Italy
+A Retrieval-Augmented Generation (RAG) application enabling users to interact with PDF documents using natural language.
 
-Working on modern AI applications with a focus on intelligent systems, scalable AI solutions, and practical implementation of advanced AI technologies in an international academic environment.
+**Highlights**
+
+- 📚 Semantic Search
+- 💬 Conversational PDF QA
+- 🧠 Context-aware Responses
+- ⚡ Fast Retrieval Pipeline
+
+**Tech Stack**
+
+`LangChain` `FAISS` `LLMs` `FastAPI`
+
+**🔗 Repository**
+
+<a href="https://github.com/adityajha2118/PDF-Chatbot">
+PDF Chatbot →
+</a>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-# 🚀 Currently Working On
+<table>
+<tr>
 
-<div align="center">
+<td width="100%">
 
-| Project | Description |
-|:--------|:------------|
-| 🤖 Agentic AI | Intelligent autonomous AI systems |
-| 🧠 Large Language Models | AI-powered applications & workflows |
-| ⚡ AI Automation | Computer Vision + NLP automation |
-| 📊 Enterprise AI | Customer Intelligence Platforms |
-| 🔍 RAG Systems | Knowledge Retrieval & AI Search |
+### 🍽️ AI Food Tracking & Smart Assistant
 
-</div>
+An intelligent nutrition platform that combines food recognition, meal tracking, health analytics, and conversational AI to promote healthier lifestyle decisions.
 
----
+**Highlights**
 
-# 💡 Core Domains
+- 🍎 Food Detection
+- 📊 Nutrition Analytics
+- 🤖 AI Health Assistant
+- 📈 Personalized Insights
 
-<div align="center">
+**Tech Stack**
 
-<img src="https://img.shields.io/badge/Agentic_AI-0096FF?style=for-the-badge"/>
+`TensorFlow` `PyTorch` `React` `Node.js` `PostgreSQL`
 
-<img src="https://img.shields.io/badge/Large_Language_Models-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer_Vision-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Retrieval_Augmented_Generation-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Explainable_AI-795548?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MLOps-607D8B?style=for-the-badge"/>
-
-</div>
-
----
-
-# 📚 Selected Work
-
-### 📊 Enterprise AI
-
-- FinSight AI
-- AI-powered Customer Intelligence
-- Predictive Analytics
-- Complaint Intelligence
-
----
-
-### 🤖 Intelligent Automation
-
-- Vision Autonomous Desktop Agent
-- OCR Automation
-- Desktop AI Workflows
-- Speech-Controlled Automation
-
----
-
-### 🧠 Generative AI
-
-- Agentic PDF Chatbot
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- LangGraph
-
----
-
-### 🍽️ AI for Healthcare
-
-- Food Tracking & Smart Assistant
-- Nutrition Intelligence
-- Personalized Recommendations
-
----
-
-### 📷 Computer Vision
-
-- BioTrack AI Ecosystem
-- Intelligent Image Management
-- Full-Stack AI Platform
-
----
-
-# 🌱 Currently Learning
-
-```text
-✓ Advanced Agentic AI
-
-✓ Multi-Agent Systems
-
-✓ LLM Application Development
-
-✓ AI System Design
-
-✓ Production AI Engineering
-
-✓ Cloud-Native AI Applications
-```
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build production-grade AI systems
-- 🌍 Contribute to impactful open-source AI projects
-- 🤖 Explore scalable Agentic AI architectures
-- 📈 Strengthen AI engineering and deployment expertise
-- 💡 Develop intelligent applications with real-world impact
-
----
-
-<div align="center">
-
-> 💬 *"The future belongs to AI systems that are not only intelligent, but also scalable, reliable, and built to solve real-world problems."*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Let's%20Connect&fontSize=32&fontColor=00F7FF&animation=fadeIn"/>
-
-### 💬 I'm always open to collaborating on exciting AI projects, open-source contributions, and innovative ideas.
-
-</div>
-
----
-
-<div align="center">
-
-<a href="mailto:adityak.jha18@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aditya-kumar-jha-430163321/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**🔗 Repository**
 
 <a href="https://github.com/adityajha2118">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+Food Tracking & Smart Assistant →
 </a>
 
-<a href="https://www.kaggle.com/adityajhaaaaaa">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+</td>
 
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=adityajha2118&style=for-the-badge&color=blue"/>
-
-</div>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+## 📌 More Projects
 
-## 💻 Thanks for visiting my profile!
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!;Let's+build+the+future+with+AI.;Happy+Coding!+🚀"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=150&section=footer"/>
-
-</div>
-Update GitHub Profile README
+| Project | Description |
+|---------|-------------|
+| 🤖 Multi-Agent Security Research | Exploring secure communication protocols and intelligent agent collaboration. |
+| 📈 Machine Learning Pipelines | End-to-end ML workflows with feature engineering, model optimization, and deployment. |
+| 🧠 Computer Vision Applications | Deep learning models for image understanding and real-world automation. |
+| ⚡ AI Automation Tools | Building AI-powered productivity tools using modern LLM frameworks. |
