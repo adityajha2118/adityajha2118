@@ -411,48 +411,62 @@ Food Tracking & Smart Assistant →
 | 🧠 Computer Vision Applications | Deep learning models for image understanding and real-world automation. |
 | ⚡ AI Automation Tools | Building AI-powered productivity tools using modern LLM frameworks. |
 
-## 📊 GitHub Analytics
+---
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityajha2118&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Let's%20Connect&fontSize=32&fontColor=00F7FF&animation=fadeIn"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajha2118&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="700" src="https://streak-stats.demolab.com?user=adityajha2118&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityajha2118&theme=tokyo-night&hide_border=true"/>
+### 💬 I'm always open to collaborating on exciting AI projects, open-source contributions, and innovative ideas.
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityajha2118&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+<a href="mailto:adityak.jha18@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-kumar-jha/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/adityajha2118">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+<div align="center">
+
+## 🌐 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=adityajha2118&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adityajha2118/adityajha2118/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+## 💻 Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!;Let's+build+the+future+with+AI.;Happy+Coding!+🚀"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=150&section=footer"/>
 
 </div>
