@@ -464,13 +464,6 @@ Food Tracking & Smart Assistant →
 
 ---
 
-<div align="center">
-
-### 📌 Contribution Calendar
-
-<img src="https://ghchart.rshah.org/00F7FF/adityajha2118" alt="GitHub Contribution Chart"/>
-
-</div>
 
 ## 🐍 Contribution Snake
 
