@@ -471,3 +471,11 @@ Food Tracking & Smart Assistant →
 <img src="https://ghchart.rshah.org/00F7FF/adityajha2118" alt="GitHub Contribution Chart"/>
 
 </div>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityajha2118/adityajha2118/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityajha2118/adityajha2118/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/adityajha2118/adityajha2118/output/github-contribution-grid-snake.svg">
+</picture>
